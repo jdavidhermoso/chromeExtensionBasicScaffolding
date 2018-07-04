@@ -1,5 +1,3 @@
-#Bad words extension
+# Chrome Extension scaffolding
 
-We are building an Chrome extension for replacing certain words for another ones.
-
-You can see the full post here: ...
+This repo pretends to be a starting point for building a Chrome Extension.

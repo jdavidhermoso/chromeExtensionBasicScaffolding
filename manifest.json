@@ -1,0 +1,14 @@
+{
+  "name": "Your extension name",
+  "version": "1.0",
+  "description": "Cool Chrome extension!",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_popup": "main/main.html"
+  },
+  "options_page": "options/options.html",
+  "manifest_version": 2
+}
